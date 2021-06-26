@@ -1,4 +1,4 @@
-FROM kalilinux/kali-rolling:latest
+FROM kalilinux/kali-linux-docker:latest
 
 MAINTAINER Xavi Torelló <info@xaviertorello.cat>
 
